@@ -1,6 +1,6 @@
 ##  PROYECTO EN SQL
 
-Aquí van a podrán encontrar dos partes del proyecto en SQL que forman parte de mi portafolio.
+Aquí van a poder encontrar dos partes del proyecto en SQL que forman parte de mi portafolio.
 
 # 1. Limpieza de datos:
 Descripción: 
